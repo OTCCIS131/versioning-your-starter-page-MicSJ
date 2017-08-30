@@ -1,0 +1,36 @@
+body {
+    background-color: rgb(21, 21, 74);
+    font-family: 'Indie Flower', cursive;     
+}
+
+img.navbar {
+    width: 50em;
+}
+
+.container {
+    background-color: rgb(21, 21, 110);
+    margin-top: 0em;
+    padding-top: 3em;
+}
+
+h1 {
+    text-align: center;
+    color: #ffffff;
+}
+
+p {
+    text-align: center;
+    color: #ffffff;
+}
+
+.jumbotron {
+    background-color: rgb(21, 21, 110);
+    color: #ffffff;
+    font-family: 'Indie Flower', cursive;
+    margin-bottom: 0em;
+    margin-top:0em;
+}
+
+.row {
+    text-align: center;
+}
